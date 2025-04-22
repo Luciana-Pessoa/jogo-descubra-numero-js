@@ -5,7 +5,6 @@ Jogo Feito em JS de descobrir o numero secreto, caso voce aceite ele pode narrar
 
  
 
- 
 
 
 
